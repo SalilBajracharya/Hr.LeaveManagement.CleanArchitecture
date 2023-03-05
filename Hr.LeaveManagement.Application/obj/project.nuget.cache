@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "203p+uSaK/c53/OGe/al2+jZF2OtOPoNNSSOvxqqycelQ4YlUbwFWZDoErMtPZimq7iAGFczAYR4odxE1u8Vbw==",
+  "dgSpecHash": "S7lubgNmOApJHbwQQxYiGUb8iPMCqyDTMhoI4uMCLBea8fAF+cQun1ARdcehNywKa/rRMQGkgN+DBJXtyy0JzQ==",
   "success": true,
   "projectFilePath": "D:\\.Net projects\\Hr.LeaveManagement.CleanArchitecture\\Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\salil\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\salil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\salil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\salil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\salil\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\salil\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\salil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
