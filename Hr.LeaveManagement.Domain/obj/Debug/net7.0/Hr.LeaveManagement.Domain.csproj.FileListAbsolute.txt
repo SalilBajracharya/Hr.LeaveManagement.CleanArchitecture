@@ -1,0 +1,12 @@
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\bin\Debug\net7.0\Hr.LeaveManagement.Domain.deps.json
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\bin\Debug\net7.0\Hr.LeaveManagement.Domain.dll
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\bin\Debug\net7.0\Hr.LeaveManagement.Domain.pdb
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\Hr.LeaveManagement.Domain.csproj.AssemblyReference.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\Hr.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\Hr.LeaveManagement.Domain.AssemblyInfoInputs.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\Hr.LeaveManagement.Domain.AssemblyInfo.cs
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\Hr.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\Hr.LeaveManagement.Domain.dll
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\refint\Hr.LeaveManagement.Domain.dll
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\Hr.LeaveManagement.Domain.pdb
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Domain\obj\Debug\net7.0\ref\Hr.LeaveManagement.Domain.dll
