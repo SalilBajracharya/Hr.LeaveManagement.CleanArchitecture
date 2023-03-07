@@ -1,9 +1,4 @@
 ﻿using Hr.LeaveManagement.Domain.Common;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hr.LeaveManagement.Domain
 {
@@ -15,7 +10,7 @@ namespace Hr.LeaveManagement.Domain
         public int LeaveTypeId { get; set; }
         public DateTime DateRequested { get; set; }
         public string RequestComments { get; set; }
-        public DateTime DateActioned { get; set; }
+        public DateTime? DateActioned { get; set; }
         public bool? Approved { get; set; }
         public bool Cancelled { get; set; }
     }
