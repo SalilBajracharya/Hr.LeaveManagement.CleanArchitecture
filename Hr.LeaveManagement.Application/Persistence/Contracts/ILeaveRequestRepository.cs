@@ -1,7 +1,7 @@
 ﻿using Hr.LeaveManagement.Application.DTOs.LeaveRequests;
 using Hr.LeaveManagement.Domain;
 
-namespace Hr.LeaveManagement.Application.Persisitence.Contracts
+namespace Hr.LeaveManagement.Application.Persistence.Contracts
 {
     public interface ILeaveRequestRepository : IGenericRepository<LeaveRequest>
     {

@@ -1,11 +1,6 @@
 ﻿using Hr.LeaveManagement.Application.Features.LeaveRequests.Requests.Commands;
-using Hr.LeaveManagement.Application.Persisitence.Contracts;
+using Hr.LeaveManagement.Application.Persistence.Contracts;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hr.LeaveManagement.Application.Features.LeaveRequests.Handlers.Commands
 {
