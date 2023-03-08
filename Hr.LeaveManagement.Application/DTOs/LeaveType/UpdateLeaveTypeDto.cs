@@ -1,9 +1,8 @@
 ﻿using Hr.LeaveManagement.Application.DTOs.Common;
-using Hr.LeaveManagement.Application.DTOs.LeaveType;
 
-namespace Hr.LeaveManagement.Application.DTOs
+namespace Hr.LeaveManagement.Application.DTOs.LeaveType
 {
-    public class LeaveTypeDto : BaseDto, ILeaveTypeDto
+    public class UpdateLeaveTypeDto : BaseDto, ILeaveTypeDto
     {
         public string Name { get; set; }
         public int DefaultDays { get; set; }
