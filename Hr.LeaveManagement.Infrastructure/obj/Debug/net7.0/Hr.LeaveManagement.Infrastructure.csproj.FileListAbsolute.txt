@@ -1,0 +1,12 @@
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\bin\Debug\net7.0\Hr.LeaveManagement.Infrastructure.deps.json
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\bin\Debug\net7.0\Hr.LeaveManagement.Infrastructure.dll
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\bin\Debug\net7.0\Hr.LeaveManagement.Infrastructure.pdb
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\Hr.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\Hr.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\Hr.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\Hr.LeaveManagement.Infrastructure.AssemblyInfo.cs
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\Hr.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\Hr.LeaveManagement.Infrastructure.dll
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\refint\Hr.LeaveManagement.Infrastructure.dll
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\Hr.LeaveManagement.Infrastructure.pdb
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Infrastructure\obj\Debug\net7.0\ref\Hr.LeaveManagement.Infrastructure.dll
