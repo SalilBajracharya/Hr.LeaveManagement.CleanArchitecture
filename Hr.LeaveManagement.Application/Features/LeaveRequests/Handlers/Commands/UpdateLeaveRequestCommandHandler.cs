@@ -23,7 +23,7 @@ namespace Hr.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
         public async Task<Unit> Handle(UpdateLeaveRequestCommand request, CancellationToken cancellationToken)
         {
             var validator = new UpdateLeaveRequestDtoValidator(_leaveTypeRepository);
-            var validationResult = await validator.ValidateAsync(request.LeaveRequestDto);
+            var validationResult = await validator.ValidateAsync(request.leaveRequestDto);
 
             if (!validationResult.IsValid)
                 throw new ValidationException(validationResult);
