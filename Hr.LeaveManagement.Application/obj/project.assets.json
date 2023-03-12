@@ -180,14 +180,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Hr.LeaveManagement.Persistence/1.0.0": {
+      "Hr.LeaveManagement.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Hr.LeaveManagement.Persistence.dll": {}
+          "bin/placeholder/Hr.LeaveManagement.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hr.LeaveManagement.Persistence.dll": {}
+          "bin/placeholder/Hr.LeaveManagement.Domain.dll": {}
         }
       }
     }
@@ -474,7 +474,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Hr.LeaveManagement.Persistence/1.0.0": {
+    "Hr.LeaveManagement.Domain/1.0.0": {
       "type": "project",
       "path": "../Hr.LeaveManagement.Domain/Hr.LeaveManagement.Domain.csproj",
       "msbuildProject": "../Hr.LeaveManagement.Domain/Hr.LeaveManagement.Domain.csproj"
@@ -484,7 +484,7 @@
     "net7.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "FluentValidation.DependencyInjectionExtensions >= 11.5.1",
-      "Hr.LeaveManagement.Persistence >= 1.0.0",
+      "Hr.LeaveManagement.Domain >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0"
     ]
   },

@@ -16,4 +16,8 @@
     <ProjectReference Include="..\Hr.LeaveManagement.Domain\Hr.LeaveManagement.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Contracts\Infrastructure\" />
+  </ItemGroup>
+
 </Project>

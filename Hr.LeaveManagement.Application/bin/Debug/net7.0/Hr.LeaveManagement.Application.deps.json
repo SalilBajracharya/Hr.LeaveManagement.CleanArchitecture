@@ -10,7 +10,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "FluentValidation.DependencyInjectionExtensions": "11.5.1",
-          "Hr.LeaveManagement.Domain": "1.0.0",
+          "Hr.LeaveManagement.Persistence": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
         },
         "runtime": {
@@ -124,7 +124,7 @@
         }
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
-      "Hr.LeaveManagement.Domain/1.0.0": {
+      "Hr.LeaveManagement.Persistence/1.0.0": {
         "runtime": {
           "Hr.LeaveManagement.Domain.dll": {}
         }
@@ -221,7 +221,7 @@
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
-    "Hr.LeaveManagement.Domain/1.0.0": {
+    "Hr.LeaveManagement.Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

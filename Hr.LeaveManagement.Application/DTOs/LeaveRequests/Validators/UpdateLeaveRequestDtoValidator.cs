@@ -1,12 +1,5 @@
 ﻿using FluentValidation;
-using FluentValidation.Internal;
-using Hr.LeaveManagement.Application.DTOs.LeaveType;
-using Hr.LeaveManagement.Application.Persistence.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Hr.LeaveManagement.Application.Contracts.Persistence;
 
 namespace Hr.LeaveManagement.Application.DTOs.LeaveRequests.Validators
 {
