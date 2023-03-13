@@ -6,7 +6,7 @@ using MediatR;
 
 namespace Hr.LeaveManagement.Application.Features.LeaveRequests.Handlers.Commands
 {
-    public class DeleteLeaveRequestCommandHandler : IRequestHandler<DeleteLeaveRequestCommand>
+    public class DeleteLeaveRequestCommandHandler : IRequestHandler<DeleteLeaveRequestCommand, Unit>
     {
         private readonly ILeaveRequestRepository _leaveRequestRepository;
         public DeleteLeaveRequestCommandHandler(ILeaveRequestRepository leaveRequestRepository)
