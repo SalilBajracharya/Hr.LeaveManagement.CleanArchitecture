@@ -4,13 +4,12 @@ using Hr.LeaveManagement.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-
 builder.Services.ConfigureApplicationServices();
 builder.Services.ConfigurationInfrastrutureServices(builder.Configuration);
 builder.Services.ConfigurePersistenceServices(builder.Configuration);
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.ConfigureApplicationServices();
 

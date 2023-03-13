@@ -21,6 +21,7 @@ namespace Hr.LeaveManagement.Application.Features.LeaveAllocations.Handlers.Comm
 
             if (leaveAllocation == null)
                 throw new NotFoundException(nameof(LeaveAllocation), request.Id);
+
             await _leaveAllocationRepository.Delete(leaveAllocation);
             return Unit.Value;
         }

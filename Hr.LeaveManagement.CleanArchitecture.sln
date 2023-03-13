@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hr.LeaveManagement.Infrastr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hr.LeaveManagement.Persistence", "Hr.LeaveManagement.Persistence\Hr.LeaveManagement.Persistence.csproj", "{E389BC98-F0E8-45BE-B6DA-3D8929C1EA89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hr.LeaveManagement.Api", "Hr.LeaveManagement.Api\Hr.LeaveManagement.Api.csproj", "{C645375F-2D8D-4B70-8561-F61696D6F0DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hr.LeaveManagement.Api", "Hr.LeaveManagement.Api\Hr.LeaveManagement.Api.csproj", "{C645375F-2D8D-4B70-8561-F61696D6F0DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
