@@ -1,8 +1,3 @@
-D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.csproj.AssemblyReference.cache
-D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
-D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.AssemblyInfoInputs.cache
-D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.AssemblyInfo.cs
-D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\bin\Debug\net7.0\Hr.LeaveManagement.Persistence.deps.json
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\bin\Debug\net7.0\Hr.LeaveManagement.Persistence.dll
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\bin\Debug\net7.0\Hr.LeaveManagement.Persistence.pdb
@@ -10,6 +5,11 @@ D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persist
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\bin\Debug\net7.0\Hr.LeaveManagement.Domain.dll
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\bin\Debug\net7.0\Hr.LeaveManagement.Application.pdb
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\bin\Debug\net7.0\Hr.LeaveManagement.Domain.pdb
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.AssemblyInfo.cs
+D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.csproj.CopyComplete
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\Hr.LeaveManagement.Persistence.dll
 D:\.Net projects\Hr.LeaveManagement.CleanArchitecture\Hr.LeaveManagement.Persistence\obj\Debug\net7.0\refint\Hr.LeaveManagement.Persistence.dll

@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Hr.LeaveManagement.Persistence.Registrar
+namespace Hr.LeaveManagement.Persistence
 {
-    public static class PersistenceServicesRegistration 
+    public static class PersistenceServicesRegistration
     {
         public static IServiceCollection ConfigurePersistenceServices(this IServiceCollection services, IConfiguration configuration)
         {
@@ -21,6 +21,7 @@ namespace Hr.LeaveManagement.Persistence.Registrar
             services.AddScoped<ILeaveTypeRepository, LeaveTypeRepository>();
 
             return services;
+
         }
     }
 }
