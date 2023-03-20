@@ -27,9 +27,17 @@ namespace Hr.LeaveManagement.Application.Features.LeaveTypes.Handlers.Commands
             var validator = new CreateLeaveTypeDtoValidator();
             var validationResult = await validator.ValidateAsync(request.CreateLeaveTypeDto);
 
-            if (!validationResult.IsValid)
-                throw new ValidationException(validationResult);
+            //This is the code for throwing exception
+            //if (!validationResult.IsValid)
+            //    throw new ValidationException(validationResult);
 
+            if (validationResult.IsValid)
+            {
+                response.Success = false;
+                response.Message = "Creation failed !";
+                response.Errors = validationResult.Errors.Select(x => x.ErrorMessage).ToList();
+            }
+            else { 
             var leaveType = _mapper.Map<LeaveType>(request.CreateLeaveTypeDto);
 
             leaveType = await _leaveTypeRepository.Add(leaveType);
@@ -37,7 +45,7 @@ namespace Hr.LeaveManagement.Application.Features.LeaveTypes.Handlers.Commands
             response.Success = true;
             response.Message = "Creation Successful";
             response.Id = leaveType.Id;
-            
+            }
             return response;
         }
     }
